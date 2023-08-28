@@ -1,0 +1,33 @@
+_repo: Aarniometsan-tytar-b-Seikkailukertomus-intiaaneista-ja-uudisasukkaista-Pohjois-Amerikan-vapau__71440
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nyman, O. E.
+    alias: Nyman, Onni Edvard
+    birthdate: 1888
+    gutenberg_agent_id: '47984'
+    url: http://www.gutenberg.org/2009/agents/47984
+    wikipedia: https://fi.wikipedia.org/wiki/O._E._Nyman
+creator:
+  author:
+    agent_name: Kenyon, Ch. R.
+    gutenberg_agent_id: '56236'
+    url: http://www.gutenberg.org/2009/agents/56236
+description: ''
+gutenberg_issued: '2023-08-18'
+identifiers:
+  gutenberg: '71440'
+language: fi
+pgterms:marc905: 20230413093325kenyon
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Timo Ervasti and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Aarniometsän tytär : $b Seikkailukertomus intiaaneista ja uudisasukkaista
+  Pohjois-Amerikan vapaussodan ajoilta'
+url: http://www.gutenberg.org/ebooks/71440
